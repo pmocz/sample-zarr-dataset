@@ -1,5 +1,6 @@
 include: 
  - timeseries2.zarr
+ - .zarray
  - .zattrs
  - .zgoup
  - .zmetadata
